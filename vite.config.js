@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/smartliving-rental/",
+  base: "/CSI301-Smart-Property-Rental-Deposit-Management/",
 });
